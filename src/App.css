@@ -1,4 +1,26 @@
+#title {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 25px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
 body {
   text-align: center;
+  margin-top: 20%;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
 }
 
